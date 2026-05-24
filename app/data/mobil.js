@@ -1,0 +1,86 @@
+export const mobilList = [
+    {
+      id: 1,
+      nama: "Toyota Supra MK5 2024",
+      deskripsi: "Sports car legendaris dengan performa tinggi dan desain aerodinamis yang agresif. Dilengkapi dengan mesin turbocharged 3.0L yang menghasilkan 382 HP.",
+      gambar: "/supra.jpg",
+      harga: "Rp 1.850.000.000",
+      tahun: "2024",
+      kategori: "Sports Car",
+      transmisi: "Automatic",
+      bahanBakar: "Bensin",
+      penjual: "Dealer Resmi Toyota"
+    },
+    {
+      id: 2,
+      nama: "Honda Civic Type R",
+      deskripsi: "Hot hatch dengan handling luar biasa dan mesin turbo 2.0L yang menghasilkan 320 HP. Desain sporty dengan aerokit lengkap.",
+      gambar: "/civic1.jpg",
+      harga: "Rp 1.250.000.000",
+      tahun: "2024",
+      kategori: "Hot Hatch",
+      transmisi: "Manual",
+      bahanBakar: "Bensin",
+      penjual: "Honda Premium Dealer"
+    },
+    {
+      id: 3,
+      nama: "Mazda CX-5 Signature",
+      deskripsi: "SUV premium dengan desain KODO yang elegan. Interior mewah dengan material kulit Nappa dan teknologi keselamatan terbaru.",
+      gambar: "/mazda1.jpg",
+      harga: "Rp 650.000.000",
+      tahun: "2024",
+      kategori: "SUV",
+      transmisi: "Automatic",
+      bahanBakar: "Bensin",
+      penjual: "Mazda Luxury Gallery"
+    },
+    {
+      id: 4,
+      nama: "Hyundai Ioniq 5",
+      deskripsi: "Electric vehicle dengan desain retro-futuristik. Jarak tempuh 480km dengan fast charging 18 menit dari 10% ke 80%.",
+      gambar: "/ioniq5.jpg",
+      harga: "Rp 750.000.000",
+      tahun: "2024",
+      kategori: "Electric Vehicle",
+      transmisi: "Automatic",
+      bahanBakar: "Listrik",
+      penjual: "Hyundai EV Center"
+    },
+    {
+      id: 5,
+      nama: "Mitsubishi Pajero Sport",
+      deskripsi: "SUV tangguh dengan kemampuan off-road luar biasa. Dilengkapi sistem 4WD dan mesin diesel 2.4L yang hemat bahan bakar.",
+      gambar: "/pajero.jpg",
+      harga: "Rp 580.000.000",
+      tahun: "2024",
+      kategori: "SUV Off-road",
+      transmisi: "Automatic",
+      bahanBakar: "Diesel",
+      penjual: "Mitsubishi Adventure"
+    },
+    {
+      id: 6,
+      nama: "BMW 330i M Sport",
+      deskripsi: "Sedan eksekutif dengan performa sporty. Mesin turbo 2.0L dengan 258 HP, interior premium dengan fitur teknologi canggih.",
+      gambar: "/bmwe.png",
+      harga: "Rp 1.150.000.000",
+      tahun: "2024",
+      kategori: "Executive Sedan",
+      transmisi: "Automatic",
+      bahanBakar: "Bensin",
+      penjual: "BMW Premium Selection"
+    },
+    {
+      id: 7,
+      nama: "Mercedes-Benz E-Class",
+      deskripsi: "Mewah dan canggih dengan teknologi autonomous driving. Interior mewah dengan dual screen display dan fitur keselamatan lengkap.",
+      gambar: "/mercedes.jpg",
+      harga: "Rp 1.450.000.000",
+      tahun: "2024",
+      kategori: "Luxury Sedan",
+      transmisi: "Automatic",
+      bahanBakar: "Bensin",
+      penjual: "Mercedes-Benz Gallery"
+    },
+];
